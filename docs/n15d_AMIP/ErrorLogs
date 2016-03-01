@@ -1,0 +1,142 @@
+2016/02/28@16:54 :: Input streams have different number of variables per timestep
+divisor: /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/Signal2NoiseRatio/nudging_15d_AMIP.clm2.h0.EnsDiffVar_All_G01.nc
+dividend:  /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/nudging_15d_AMIP.clm2.h0.anomaly_timvar_detrend_G01
+2016/02/28@16:54 :: Input streams have different number of variables per timestep
+divisor: /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/Signal2NoiseRatio/nudging_15d_AMIP.clm2.h0.EnsDiffVar_All_G02.nc
+dividend:  /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/nudging_15d_AMIP.clm2.h0.anomaly_timvar_detrend_G02
+2016/02/28@16:54 :: Input streams have different number of variables per timestep
+divisor: /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/Signal2NoiseRatio/nudging_15d_AMIP.clm2.h0.EnsDiffVar_All_G03.nc
+dividend:  /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/nudging_15d_AMIP.clm2.h0.anomaly_timvar_detrend_G03
+2016/02/28@16:54 :: file is missing ... 
+missing file: /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/Signal2NoiseRatio/*.clm2.h0.*EnsDiffVar*G04*
+2016/02/28@16:54 :: Input streams have different number of variables per timestep
+divisor: /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/Signal2NoiseRatio/nudging_15d_AMIP.clm2.h0.EnsDiffVar-01.nc_G01.nc
+dividend:  /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/nudging_15d_AMIP.clm2.h0.anomaly_timvar_detrend_m01_G01
+2016/02/28@16:54 :: file is missing ... 
+missing file: /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/Signal2NoiseRatio/*.clm2.h0.*EnsDiffVar*G04*
+2016/02/28@16:54 :: Input streams have different number of variables per timestep
+divisor: /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/Signal2NoiseRatio/nudging_15d_AMIP.clm2.h0.EnsDiffVar-02.nc_G01.nc
+dividend:  /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/nudging_15d_AMIP.clm2.h0.anomaly_timvar_detrend_m02_G01
+2016/02/28@16:54 :: file is missing ... 
+missing file: /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/Signal2NoiseRatio/*.clm2.h0.*EnsDiffVar*G04*
+2016/02/28@16:54 :: Input streams have different number of variables per timestep
+divisor: /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/Signal2NoiseRatio/nudging_15d_AMIP.clm2.h0.EnsDiffVar-03.nc_G01.nc
+dividend:  /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/nudging_15d_AMIP.clm2.h0.anomaly_timvar_detrend_m03_G01
+2016/02/28@16:54 :: file is missing ... 
+missing file: /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/Signal2NoiseRatio/*.clm2.h0.*EnsDiffVar*G04*
+2016/02/28@16:54 :: Input streams have different number of variables per timestep
+divisor: /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/Signal2NoiseRatio/nudging_15d_AMIP.clm2.h0.EnsDiffVar-04.nc_G01.nc
+dividend:  /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/nudging_15d_AMIP.clm2.h0.anomaly_timvar_detrend_m04_G01
+2016/02/28@16:54 :: file is missing ... 
+missing file: /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/Signal2NoiseRatio/*.clm2.h0.*EnsDiffVar*G04*
+2016/02/28@16:54 :: Input streams have different number of variables per timestep
+divisor: /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/Signal2NoiseRatio/nudging_15d_AMIP.clm2.h0.EnsDiffVar-05.nc_G01.nc
+dividend:  /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/nudging_15d_AMIP.clm2.h0.anomaly_timvar_detrend_m05_G01
+2016/02/28@16:54 :: file is missing ... 
+missing file: /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/Signal2NoiseRatio/*.clm2.h0.*EnsDiffVar*G04*
+2016/02/28@16:54 :: Input streams have different number of variables per timestep
+divisor: /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/Signal2NoiseRatio/nudging_15d_AMIP.clm2.h0.EnsDiffVar-06.nc_G01.nc
+dividend:  /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/nudging_15d_AMIP.clm2.h0.anomaly_timvar_detrend_m06_G01
+2016/02/28@16:54 :: file is missing ... 
+missing file: /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/Signal2NoiseRatio/*.clm2.h0.*EnsDiffVar*G04*
+2016/02/28@16:54 :: Input streams have different number of variables per timestep
+divisor: /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/Signal2NoiseRatio/nudging_15d_AMIP.clm2.h0.EnsDiffVar-07.nc_G01.nc
+dividend:  /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/nudging_15d_AMIP.clm2.h0.anomaly_timvar_detrend_m07_G01
+2016/02/28@16:54 :: file is missing ... 
+missing file: /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/Signal2NoiseRatio/*.clm2.h0.*EnsDiffVar*G04*
+2016/02/28@16:54 :: Input streams have different number of variables per timestep
+divisor: /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/Signal2NoiseRatio/nudging_15d_AMIP.clm2.h0.EnsDiffVar-08.nc_G01.nc
+dividend:  /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/nudging_15d_AMIP.clm2.h0.anomaly_timvar_detrend_m08_G01
+2016/02/28@16:54 :: file is missing ... 
+missing file: /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/Signal2NoiseRatio/*.clm2.h0.*EnsDiffVar*G04*
+2016/02/28@16:54 :: Input streams have different number of variables per timestep
+divisor: /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/Signal2NoiseRatio/nudging_15d_AMIP.clm2.h0.EnsDiffVar-09.nc_G01.nc
+dividend:  /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/nudging_15d_AMIP.clm2.h0.anomaly_timvar_detrend_m09_G01
+2016/02/28@16:54 :: file is missing ... 
+missing file: /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/Signal2NoiseRatio/*.clm2.h0.*EnsDiffVar*G04*
+2016/02/28@16:54 :: Input streams have different number of variables per timestep
+divisor: /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/Signal2NoiseRatio/nudging_15d_AMIP.clm2.h0.EnsDiffVar-10.nc_G01.nc
+dividend:  /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/nudging_15d_AMIP.clm2.h0.anomaly_timvar_detrend_m10_G01
+2016/02/28@16:54 :: file is missing ... 
+missing file: /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/Signal2NoiseRatio/*.clm2.h0.*EnsDiffVar*G04*
+2016/02/28@16:54 :: Input streams have different number of variables per timestep
+divisor: /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/Signal2NoiseRatio/nudging_15d_AMIP.clm2.h0.EnsDiffVar-11.nc_G01.nc
+dividend:  /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/nudging_15d_AMIP.clm2.h0.anomaly_timvar_detrend_m11_G01
+2016/02/28@16:54 :: file is missing ... 
+missing file: /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/Signal2NoiseRatio/*.clm2.h0.*EnsDiffVar*G04*
+2016/02/28@16:54 :: Input streams have different number of variables per timestep
+divisor: /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/Signal2NoiseRatio/nudging_15d_AMIP.clm2.h0.EnsDiffVar-12.nc_G01.nc
+dividend:  /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/nudging_15d_AMIP.clm2.h0.anomaly_timvar_detrend_m12_G01
+2016/02/28@16:54 :: file is missing ... 
+missing file: /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/Signal2NoiseRatio/*.clm2.h0.*EnsDiffVar*G04*
+2016/03/01@10:16 :: Input streams have different number of variables per timestep
+divisor: /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/Signal2NoiseRatio/nudging_15d_AMIP.clm2.h0.EnsDiffVar_All_G01.nc
+dividend:  /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/nudging_15d_AMIP.clm2.h0.anomaly_timvar_detrend_G01
+2016/03/01@10:16 :: Input streams have different number of variables per timestep
+divisor: /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/Signal2NoiseRatio/nudging_15d_AMIP.clm2.h0.EnsDiffVar_All_G02.nc
+dividend:  /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/nudging_15d_AMIP.clm2.h0.anomaly_timvar_detrend_G02
+2016/03/01@10:16 :: Input streams have different number of variables per timestep
+divisor: /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/Signal2NoiseRatio/nudging_15d_AMIP.clm2.h0.EnsDiffVar_All_G03.nc
+dividend:  /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/nudging_15d_AMIP.clm2.h0.anomaly_timvar_detrend_G03
+2016/03/01@10:16 :: file is missing ... 
+missing file: /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/Signal2NoiseRatio/*.clm2.h0.*EnsDiffVar*G04*
+2016/03/01@10:16 :: Input streams have different number of variables per timestep
+divisor: /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/Signal2NoiseRatio/nudging_15d_AMIP.clm2.h0.EnsDiffVar-01.nc_G01.nc
+dividend:  /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/nudging_15d_AMIP.clm2.h0.anomaly_timvar_detrend_m01_G01
+2016/03/01@10:16 :: file is missing ... 
+missing file: /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/Signal2NoiseRatio/*.clm2.h0.*EnsDiffVar*G04*
+2016/03/01@10:16 :: Input streams have different number of variables per timestep
+divisor: /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/Signal2NoiseRatio/nudging_15d_AMIP.clm2.h0.EnsDiffVar-02.nc_G01.nc
+dividend:  /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/nudging_15d_AMIP.clm2.h0.anomaly_timvar_detrend_m02_G01
+2016/03/01@10:16 :: file is missing ... 
+missing file: /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/Signal2NoiseRatio/*.clm2.h0.*EnsDiffVar*G04*
+2016/03/01@10:16 :: Input streams have different number of variables per timestep
+divisor: /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/Signal2NoiseRatio/nudging_15d_AMIP.clm2.h0.EnsDiffVar-03.nc_G01.nc
+dividend:  /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/nudging_15d_AMIP.clm2.h0.anomaly_timvar_detrend_m03_G01
+2016/03/01@10:16 :: file is missing ... 
+missing file: /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/Signal2NoiseRatio/*.clm2.h0.*EnsDiffVar*G04*
+2016/03/01@10:16 :: Input streams have different number of variables per timestep
+divisor: /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/Signal2NoiseRatio/nudging_15d_AMIP.clm2.h0.EnsDiffVar-04.nc_G01.nc
+dividend:  /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/nudging_15d_AMIP.clm2.h0.anomaly_timvar_detrend_m04_G01
+2016/03/01@10:16 :: file is missing ... 
+missing file: /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/Signal2NoiseRatio/*.clm2.h0.*EnsDiffVar*G04*
+2016/03/01@10:16 :: Input streams have different number of variables per timestep
+divisor: /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/Signal2NoiseRatio/nudging_15d_AMIP.clm2.h0.EnsDiffVar-05.nc_G01.nc
+dividend:  /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/nudging_15d_AMIP.clm2.h0.anomaly_timvar_detrend_m05_G01
+2016/03/01@10:16 :: file is missing ... 
+missing file: /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/Signal2NoiseRatio/*.clm2.h0.*EnsDiffVar*G04*
+2016/03/01@10:16 :: Input streams have different number of variables per timestep
+divisor: /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/Signal2NoiseRatio/nudging_15d_AMIP.clm2.h0.EnsDiffVar-06.nc_G01.nc
+dividend:  /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/nudging_15d_AMIP.clm2.h0.anomaly_timvar_detrend_m06_G01
+2016/03/01@10:16 :: file is missing ... 
+missing file: /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/Signal2NoiseRatio/*.clm2.h0.*EnsDiffVar*G04*
+2016/03/01@10:16 :: Input streams have different number of variables per timestep
+divisor: /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/Signal2NoiseRatio/nudging_15d_AMIP.clm2.h0.EnsDiffVar-07.nc_G01.nc
+dividend:  /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/nudging_15d_AMIP.clm2.h0.anomaly_timvar_detrend_m07_G01
+2016/03/01@10:16 :: file is missing ... 
+missing file: /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/Signal2NoiseRatio/*.clm2.h0.*EnsDiffVar*G04*
+2016/03/01@10:16 :: Input streams have different number of variables per timestep
+divisor: /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/Signal2NoiseRatio/nudging_15d_AMIP.clm2.h0.EnsDiffVar-08.nc_G01.nc
+dividend:  /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/nudging_15d_AMIP.clm2.h0.anomaly_timvar_detrend_m08_G01
+2016/03/01@10:16 :: file is missing ... 
+missing file: /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/Signal2NoiseRatio/*.clm2.h0.*EnsDiffVar*G04*
+2016/03/01@10:16 :: Input streams have different number of variables per timestep
+divisor: /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/Signal2NoiseRatio/nudging_15d_AMIP.clm2.h0.EnsDiffVar-09.nc_G01.nc
+dividend:  /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/nudging_15d_AMIP.clm2.h0.anomaly_timvar_detrend_m09_G01
+2016/03/01@10:16 :: file is missing ... 
+missing file: /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/Signal2NoiseRatio/*.clm2.h0.*EnsDiffVar*G04*
+2016/03/01@10:16 :: Input streams have different number of variables per timestep
+divisor: /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/Signal2NoiseRatio/nudging_15d_AMIP.clm2.h0.EnsDiffVar-10.nc_G01.nc
+dividend:  /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/nudging_15d_AMIP.clm2.h0.anomaly_timvar_detrend_m10_G01
+2016/03/01@10:16 :: file is missing ... 
+missing file: /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/Signal2NoiseRatio/*.clm2.h0.*EnsDiffVar*G04*
+2016/03/01@10:16 :: Input streams have different number of variables per timestep
+divisor: /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/Signal2NoiseRatio/nudging_15d_AMIP.clm2.h0.EnsDiffVar-11.nc_G01.nc
+dividend:  /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/nudging_15d_AMIP.clm2.h0.anomaly_timvar_detrend_m11_G01
+2016/03/01@10:16 :: file is missing ... 
+missing file: /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/Signal2NoiseRatio/*.clm2.h0.*EnsDiffVar*G04*
+2016/03/01@10:16 :: Input streams have different number of variables per timestep
+divisor: /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/Signal2NoiseRatio/nudging_15d_AMIP.clm2.h0.EnsDiffVar-12.nc_G01.nc
+dividend:  /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/nudging_15d_AMIP.clm2.h0.anomaly_timvar_detrend_m12_G01
+2016/03/01@10:16 :: file is missing ... 
+missing file: /scratch/earnest/SyncTransfer/n15d_AMIP/lnd/Signal2NoiseRatio/*.clm2.h0.*EnsDiffVar*G04*
