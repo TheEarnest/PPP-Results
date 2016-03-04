@@ -8,7 +8,6 @@ Author: Mao-Lin Shen (E-mail: maolin.shen@uib.no)
 
   * Figures of the PPP for different levels are not shown because there are too many levels and GitHub can only present the web-page if the page size is smaller than 1MB.
 
-
 ## Analysis:
 --------------------------------------
 * ### Full Profile assimilated Ocean and State-nudged Atmosphere of NorESM (1st version)
@@ -35,7 +34,6 @@ Author: Mao-Lin Shen (E-mail: maolin.shen@uib.no)
     * __Finished on 28 Jan 2016__
     * More details can be found in the [description page] (docs/FrontPage_FF_3rd_try.markdown)
     * PPP of air surface temperature [![] (figures/FF_3rd_try/PPP_atm/PPP_All_G04.cam2.h0.TS.png)] (docs/FrontPage_FF_3rd_try.markdown)
-
 
 
 --------------------------------------
