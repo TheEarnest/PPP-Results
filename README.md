@@ -15,7 +15,7 @@ Author: Mao-Lin Shen (E-mail: maolin.shen@uib.no)
   * About this analysis:
     * __Finished on ?? ?? 2016__
     * Have to wait for Yiguo Wang's work on full profiled assimilation
-    * More details can be found in the [description page] (blob/master/docs/FrontPage_FF_ini_try.markdown)
+    * More details can be found in the [description page] (blob/master/docs/FrontPage_FF_ini_try.md)
     * PPP of SST ![] (figures/FFSSTwiNudA_ini_1st_try/PPP_PPP-08.cam2.h0.SST.png)
 
 --------------------------------------
