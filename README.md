@@ -1,7 +1,7 @@
 
-The Results of Applying Prognostic Potential Predictability (PPP)
+The Results of Applying Potential Predictability (PP)
 ==========
->> For calculating Prognostic Potential Predictability (PPP) on nostore-osl 
+>> For calculating Potential Predictability (PP) on nostore-oslo 
 >> Mainly evaluating if the system is well constrained. 
 
 Author: Mao-Lin Shen (E-mail: maolin.shen@uib.no)
@@ -15,7 +15,7 @@ Author: Mao-Lin Shen (E-mail: maolin.shen@uib.no)
   * About this analysis:
     * __Finished on ?? ?? 2016__
     * Have to wait for Yiguo Wang's work on full profiled assimilation
-    * More details can be found in the [description page] (FrontPage_FF_ini_try.markdown)
+    * More details can be found in the [description page] (docs/FrontPage_FF_ini_try.markdown)
     * PPP of SST ![] (figures/FFSSTwiNudA_ini_1st_try/PPP_PPP-08.cam2.h0.SST.png)
 
 --------------------------------------
