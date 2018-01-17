@@ -6,15 +6,15 @@ PPP of all variables in ocn outputs
  
 ------ 
  
-  * __abswnd: Absolute wind speed__, All_G01.micom.hy., (level: 0) -> maximum PPP is __0.916__; averaged PPP is 0.303 ![] (../../figures/ME_Sebastien/PPP_ocn/PPP_All_G01.micom.hy.abswnd.png)
+  * __abswnd: Absolute wind speed__, All_G01.micom.hy., (level: 0) -> maximum PPP is __0.916__; averaged PPP is 0.303 ![](../../figures/ME_Sebastien/PPP_ocn/PPP_All_G01.micom.hy.abswnd.png)
  
 ------ 
  
-  * __eva: Evaporation__, All_G01.micom.hy., (level: 0) -> maximum PPP is __0.958__; averaged PPP is 0.448 ![] (../../figures/ME_Sebastien/PPP_ocn/PPP_All_G01.micom.hy.eva.png)
+  * __eva: Evaporation__, All_G01.micom.hy., (level: 0) -> maximum PPP is __0.958__; averaged PPP is 0.448 ![](../../figures/ME_Sebastien/PPP_ocn/PPP_All_G01.micom.hy.eva.png)
  
 ------ 
  
-  * __hflx: Heat flux received by ocean__, All_G01.micom.hy., (level: 0) -> maximum PPP is __0.956__; averaged PPP is 0.450 ![] (../../figures/ME_Sebastien/PPP_ocn/PPP_All_G01.micom.hy.hflx.png)
+  * __hflx: Heat flux received by ocean__, All_G01.micom.hy., (level: 0) -> maximum PPP is __0.956__; averaged PPP is 0.450 ![](../../figures/ME_Sebastien/PPP_ocn/PPP_All_G01.micom.hy.hflx.png)
  
 ------ 
  
@@ -162,55 +162,55 @@ PPP of all variables in ocn outputs
  
 ------ 
  
-  * __mxlu: Mixed layer velocity x-component__, All_G01.micom.hy., (level: 0) -> maximum PPP is __0.919__; averaged PPP is 0.363 ![] (../../figures/ME_Sebastien/PPP_ocn/PPP_All_G01.micom.hy.mxlu.png)
+  * __mxlu: Mixed layer velocity x-component__, All_G01.micom.hy., (level: 0) -> maximum PPP is __0.919__; averaged PPP is 0.363 ![](../../figures/ME_Sebastien/PPP_ocn/PPP_All_G01.micom.hy.mxlu.png)
  
 ------ 
  
-  * __mxlv: Mixed layer velocity y-component__, All_G01.micom.hy., (level: 0) -> maximum PPP is __0.906__; averaged PPP is 0.347 ![] (../../figures/ME_Sebastien/PPP_ocn/PPP_All_G01.micom.hy.mxlv.png)
+  * __mxlv: Mixed layer velocity y-component__, All_G01.micom.hy., (level: 0) -> maximum PPP is __0.906__; averaged PPP is 0.347 ![](../../figures/ME_Sebastien/PPP_ocn/PPP_All_G01.micom.hy.mxlv.png)
  
 ------ 
  
-  * __nsf: Non-solar heat flux__, All_G01.micom.hy., (level: 0) -> maximum PPP is __0.940__; averaged PPP is 0.425 ![] (../../figures/ME_Sebastien/PPP_ocn/PPP_All_G01.micom.hy.nsf.png)
+  * __nsf: Non-solar heat flux__, All_G01.micom.hy., (level: 0) -> maximum PPP is __0.940__; averaged PPP is 0.425 ![](../../figures/ME_Sebastien/PPP_ocn/PPP_All_G01.micom.hy.nsf.png)
  
 ------ 
  
-  * __rfi: Frozen runoff__, All_G01.micom.hy., (level: 0) -> maximum PPP is 0.403; averaged PPP is 0.097 ![] (../../figures/ME_Sebastien/PPP_ocn/PPP_All_G01.micom.hy.rfi.png)
+  * __rfi: Frozen runoff__, All_G01.micom.hy., (level: 0) -> maximum PPP is 0.403; averaged PPP is 0.097 ![](../../figures/ME_Sebastien/PPP_ocn/PPP_All_G01.micom.hy.rfi.png)
  
 ------ 
  
-  * __rnf: Liquid runoff__, All_G01.micom.hy., (level: 0) -> maximum PPP is __0.858__; averaged PPP is 0.089 ![] (../../figures/ME_Sebastien/PPP_ocn/PPP_All_G01.micom.hy.rnf.png)
+  * __rnf: Liquid runoff__, All_G01.micom.hy., (level: 0) -> maximum PPP is __0.858__; averaged PPP is 0.089 ![](../../figures/ME_Sebastien/PPP_ocn/PPP_All_G01.micom.hy.rnf.png)
  
 ------ 
  
-  * __sealv: Sea level__, All_G01.micom.hy., (level: 0) -> maximum PPP is __0.939__; averaged PPP is 0.563 ![] (../../figures/ME_Sebastien/PPP_ocn/PPP_All_G01.micom.hy.sealv.png)
+  * __sealv: Sea level__, All_G01.micom.hy., (level: 0) -> maximum PPP is __0.939__; averaged PPP is 0.563 ![](../../figures/ME_Sebastien/PPP_ocn/PPP_All_G01.micom.hy.sealv.png)
  
 ------ 
  
-  * __sflx: Salt flux received by ocean__, All_G01.micom.hy., (level: 0) -> maximum PPP is __0.937__; averaged PPP is 0.335 ![] (../../figures/ME_Sebastien/PPP_ocn/PPP_All_G01.micom.hy.sflx.png)
+  * __sflx: Salt flux received by ocean__, All_G01.micom.hy., (level: 0) -> maximum PPP is __0.937__; averaged PPP is 0.335 ![](../../figures/ME_Sebastien/PPP_ocn/PPP_All_G01.micom.hy.sflx.png)
  
 ------ 
  
-  * __sop: Solid precipitation__, All_G01.micom.hy., (level: 0) -> maximum PPP is __0.719__; averaged PPP is 0.159 ![] (../../figures/ME_Sebastien/PPP_ocn/PPP_All_G01.micom.hy.sop.png)
+  * __sop: Solid precipitation__, All_G01.micom.hy., (level: 0) -> maximum PPP is __0.719__; averaged PPP is 0.159 ![](../../figures/ME_Sebastien/PPP_ocn/PPP_All_G01.micom.hy.sop.png)
  
 ------ 
  
-  * __swa: Short-wave heat flux__, All_G01.micom.hy., (level: 0) -> maximum PPP is __0.909__; averaged PPP is 0.293 ![] (../../figures/ME_Sebastien/PPP_ocn/PPP_All_G01.micom.hy.swa.png)
+  * __swa: Short-wave heat flux__, All_G01.micom.hy., (level: 0) -> maximum PPP is __0.909__; averaged PPP is 0.293 ![](../../figures/ME_Sebastien/PPP_ocn/PPP_All_G01.micom.hy.swa.png)
  
 ------ 
  
-  * __taux: Momentum flux received by ocean x-component__, All_G01.micom.hy., (level: 0) -> maximum PPP is __0.918__; averaged PPP is 0.322 ![] (../../figures/ME_Sebastien/PPP_ocn/PPP_All_G01.micom.hy.taux.png)
+  * __taux: Momentum flux received by ocean x-component__, All_G01.micom.hy., (level: 0) -> maximum PPP is __0.918__; averaged PPP is 0.322 ![](../../figures/ME_Sebastien/PPP_ocn/PPP_All_G01.micom.hy.taux.png)
  
 ------ 
  
-  * __tauy: Momentum flux received by ocean y-component__, All_G01.micom.hy., (level: 0) -> maximum PPP is __0.906__; averaged PPP is 0.317 ![] (../../figures/ME_Sebastien/PPP_ocn/PPP_All_G01.micom.hy.tauy.png)
+  * __tauy: Momentum flux received by ocean y-component__, All_G01.micom.hy., (level: 0) -> maximum PPP is __0.906__; averaged PPP is 0.317 ![](../../figures/ME_Sebastien/PPP_ocn/PPP_All_G01.micom.hy.tauy.png)
  
 ------ 
  
-  * __ubaro: Barotropic velocity x-component__, All_G01.micom.hy., (level: 0) -> maximum PPP is __0.938__; averaged PPP is 0.432 ![] (../../figures/ME_Sebastien/PPP_ocn/PPP_All_G01.micom.hy.ubaro.png)
+  * __ubaro: Barotropic velocity x-component__, All_G01.micom.hy., (level: 0) -> maximum PPP is __0.938__; averaged PPP is 0.432 ![](../../figures/ME_Sebastien/PPP_ocn/PPP_All_G01.micom.hy.ubaro.png)
  
 ------ 
  
-  * __vbaro: Barotropic velocity y-component__, All_G01.micom.hy., (level: 0) -> maximum PPP is __0.938__; averaged PPP is 0.419 ![] (../../figures/ME_Sebastien/PPP_ocn/PPP_All_G01.micom.hy.vbaro.png)
+  * __vbaro: Barotropic velocity y-component__, All_G01.micom.hy., (level: 0) -> maximum PPP is __0.938__; averaged PPP is 0.419 ![](../../figures/ME_Sebastien/PPP_ocn/PPP_All_G01.micom.hy.vbaro.png)
  
 ------ 
  
@@ -234,15 +234,15 @@ PPP of all variables in ocn outputs
  
 ------ 
  
-  * __fice: Ice concentration__, All.micom.hm., (level: 0) -> maximum PPP is __0.661__; averaged PPP is 0.159 ![] (../../figures/ME_Sebastien/PPP_ocn/PPP_All.micom.hm.fice.png)
+  * __fice: Ice concentration__, All.micom.hm., (level: 0) -> maximum PPP is __0.661__; averaged PPP is 0.159 ![](../../figures/ME_Sebastien/PPP_ocn/PPP_All.micom.hm.fice.png)
  
 ------ 
  
-  * __maxmld: Maximum mixed layer depth__, All.micom.hm., (level: 0) -> maximum PPP is __0.991__; averaged PPP is 0.236 ![] (../../figures/ME_Sebastien/PPP_ocn/PPP_All.micom.hm.maxmld.png)
+  * __maxmld: Maximum mixed layer depth__, All.micom.hm., (level: 0) -> maximum PPP is __0.991__; averaged PPP is 0.236 ![](../../figures/ME_Sebastien/PPP_ocn/PPP_All.micom.hm.maxmld.png)
  
 ------ 
  
-  * __mld: Mixed layer depth__, All.micom.hm., (level: 0) -> maximum PPP is __0.827__; averaged PPP is 0.240 ![] (../../figures/ME_Sebastien/PPP_ocn/PPP_All.micom.hm.mld.png)
+  * __mld: Mixed layer depth__, All.micom.hm., (level: 0) -> maximum PPP is __0.827__; averaged PPP is 0.240 ![](../../figures/ME_Sebastien/PPP_ocn/PPP_All.micom.hm.mld.png)
  
 ------ 
  
@@ -390,15 +390,15 @@ PPP of all variables in ocn outputs
  
 ------ 
  
-  * __sigmx: Mixed layer density__, All.micom.hm., (level: 0) -> maximum PPP is __0.925__; averaged PPP is 0.493 ![] (../../figures/ME_Sebastien/PPP_ocn/PPP_All.micom.hm.sigmx.png)
+  * __sigmx: Mixed layer density__, All.micom.hm., (level: 0) -> maximum PPP is __0.925__; averaged PPP is 0.493 ![](../../figures/ME_Sebastien/PPP_ocn/PPP_All.micom.hm.sigmx.png)
  
 ------ 
  
-  * __sss: Ocean surface salinity__, All.micom.hm., (level: 0) -> maximum PPP is __0.886__; averaged PPP is 0.438 ![] (../../figures/ME_Sebastien/PPP_ocn/PPP_All.micom.hm.sss.png)
+  * __sss: Ocean surface salinity__, All.micom.hm., (level: 0) -> maximum PPP is __0.886__; averaged PPP is 0.438 ![](../../figures/ME_Sebastien/PPP_ocn/PPP_All.micom.hm.sss.png)
  
 ------ 
  
-  * __sst: Ocean surface temperature__, All.micom.hm., (level: 0) -> maximum PPP is __0.925__; averaged PPP is 0.541 ![] (../../figures/ME_Sebastien/PPP_ocn/PPP_All.micom.hm.sst.png)
+  * __sst: Ocean surface temperature__, All.micom.hm., (level: 0) -> maximum PPP is __0.925__; averaged PPP is 0.541 ![](../../figures/ME_Sebastien/PPP_ocn/PPP_All.micom.hm.sst.png)
  
 ------ 
  
@@ -1682,7 +1682,7 @@ PPP of all variables in ocn outputs
  
 ------ 
  
-  * __sealv: Sea level__, All.micom.hm., (level: 0) -> maximum PPP is __0.902__; averaged PPP is 0.465  ![] (../../figures/ME_Sebastien/PPP_ocn/PPP_All.micom.hm.sealv.png)
+  * __sealv: Sea level__, All.micom.hm., (level: 0) -> maximum PPP is __0.902__; averaged PPP is 0.465  ![](../../figures/ME_Sebastien/PPP_ocn/PPP_All.micom.hm.sealv.png)
  
 ------ 
  
@@ -1966,7 +1966,7 @@ PPP of all variables in ocn outputs
  
 ------ 
  
-  * __lip: Liquid precipitation__, All_G01.micom.hy., (level: 0) -> maximum PPP is __0.934__; averaged PPP is 0.327  ![] (../../figures/ME_Sebastien/PPP_ocn/PPP_All_G01.micom.hy.lip.png)
+  * __lip: Liquid precipitation__, All_G01.micom.hy., (level: 0) -> maximum PPP is __0.934__; averaged PPP is 0.327  ![](../../figures/ME_Sebastien/PPP_ocn/PPP_All_G01.micom.hy.lip.png)
  
 ------ 
  
@@ -2110,7 +2110,7 @@ PPP of all variables in ocn outputs
  
 ------ 
  
-  * __sealv: Sea level__, All.micom.hm., (level: 0) -> maximum PPP is __0.902__; averaged PPP is 0.465  ![] (../../figures/ME_Sebastien/PPP_ocn/PPP_All.micom.hm.sealv.png)
+  * __sealv: Sea level__, All.micom.hm., (level: 0) -> maximum PPP is __0.902__; averaged PPP is 0.465  ![](../../figures/ME_Sebastien/PPP_ocn/PPP_All.micom.hm.sealv.png)
  
 ------ 
  
@@ -2394,7 +2394,7 @@ PPP of all variables in ocn outputs
  
 ------ 
  
-  * __lip: Liquid precipitation__, All_G01.micom.hy., (level: 0) -> maximum PPP is __0.934__; averaged PPP is 0.327  ![] (../../figures/ME_Sebastien/PPP_ocn/PPP_All_G01.micom.hy.lip.png)
+  * __lip: Liquid precipitation__, All_G01.micom.hy., (level: 0) -> maximum PPP is __0.934__; averaged PPP is 0.327  ![](../../figures/ME_Sebastien/PPP_ocn/PPP_All_G01.micom.hy.lip.png)
  
 ------ 
  
@@ -2538,7 +2538,7 @@ PPP of all variables in ocn outputs
  
 ------ 
  
-  * __sealv: Sea level__, All.micom.hm., (level: 0) -> maximum PPP is __0.902__; averaged PPP is 0.465  ![] (../../figures/ME_Sebastien/PPP_ocn/PPP_All.micom.hm.sealv.png)
+  * __sealv: Sea level__, All.micom.hm., (level: 0) -> maximum PPP is __0.902__; averaged PPP is 0.465  ![](../../figures/ME_Sebastien/PPP_ocn/PPP_All.micom.hm.sealv.png)
  
 ------ 
  

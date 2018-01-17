@@ -6,27 +6,27 @@ PPP of all variables in atm outputs
  
 ------ 
  
-  * __AEROD_v: Total Aerosol Optical Depth in visible band__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.999__; averaged PPP is __0.918__  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.AEROD_v.png)
+  * __AEROD_v: Total Aerosol Optical Depth in visible band__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.999__; averaged PPP is __0.918__  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.AEROD_v.png)
  
 ------ 
  
-  * __ATMEINT: Vertically integrated total atmospheric energy__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.949__; averaged PPP is 0.389  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.ATMEINT.png)
+  * __ATMEINT: Vertically integrated total atmospheric energy__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.949__; averaged PPP is 0.389  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.ATMEINT.png)
  
 ------ 
  
-  * __CLDHGH: Vertically-integrated high cloud__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.776__; averaged PPP is 0.234  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.CLDHGH.png)
+  * __CLDHGH: Vertically-integrated high cloud__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.776__; averaged PPP is 0.234  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.CLDHGH.png)
  
 ------ 
  
-  * __CLDLOW: Vertically-integrated low cloud__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.841__; averaged PPP is 0.233  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.CLDLOW.png)
+  * __CLDLOW: Vertically-integrated low cloud__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.841__; averaged PPP is 0.233  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.CLDLOW.png)
  
 ------ 
  
-  * __CLDMED: Vertically-integrated mid-level cloud__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.922__; averaged PPP is 0.231  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.CLDMED.png)
+  * __CLDMED: Vertically-integrated mid-level cloud__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.922__; averaged PPP is 0.231  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.CLDMED.png)
  
 ------ 
  
-  * __CLDTOT: Vertically-integrated total cloud__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.754__; averaged PPP is 0.228  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.CLDTOT.png)
+  * __CLDTOT: Vertically-integrated total cloud__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.754__; averaged PPP is 0.228  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.CLDTOT.png)
  
 ------ 
  
@@ -82,147 +82,147 @@ PPP of all variables in atm outputs
  
 ------ 
  
-  * __FLDSC: Clearsky downwelling longwave flux at surface__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.975__; averaged PPP is 0.461  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.FLDSC.png)
+  * __FLDSC: Clearsky downwelling longwave flux at surface__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.975__; averaged PPP is 0.461  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.FLDSC.png)
  
 ------ 
  
-  * __FLDS: Downwelling longwave flux at surface__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.961__; averaged PPP is 0.328  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.FLDS.png)
+  * __FLDS: Downwelling longwave flux at surface__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.961__; averaged PPP is 0.328  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.FLDS.png)
  
 ------ 
  
-  * __FLNSC: Clearsky net longwave flux at surface__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.953__; averaged PPP is 0.322  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.FLNSC.png)
+  * __FLNSC: Clearsky net longwave flux at surface__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.953__; averaged PPP is 0.322  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.FLNSC.png)
  
 ------ 
  
-  * __FLNS: Net longwave flux at surface__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.887__; averaged PPP is 0.250  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.FLNS.png)
+  * __FLNS: Net longwave flux at surface__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.887__; averaged PPP is 0.250  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.FLNS.png)
  
 ------ 
  
-  * __FLNTC: Clearsky net longwave flux at top of model__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.946__; averaged PPP is 0.395  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.FLNTC.png)
+  * __FLNTC: Clearsky net longwave flux at top of model__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.946__; averaged PPP is 0.395  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.FLNTC.png)
  
 ------ 
  
-  * __FLNT: Net longwave flux at top of model__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.862__; averaged PPP is 0.270  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.FLNT.png)
+  * __FLNT: Net longwave flux at top of model__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.862__; averaged PPP is 0.270  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.FLNT.png)
  
 ------ 
  
-  * __FLUTC: Clearsky upwelling longwave flux at top of model__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.945__; averaged PPP is 0.395  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.FLUTC.png)
+  * __FLUTC: Clearsky upwelling longwave flux at top of model__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.945__; averaged PPP is 0.395  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.FLUTC.png)
  
 ------ 
  
-  * __FLUT: Upwelling longwave flux at top of model__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.862__; averaged PPP is 0.270  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.FLUT.png)
+  * __FLUT: Upwelling longwave flux at top of model__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.862__; averaged PPP is 0.270  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.FLUT.png)
  
 ------ 
  
-  * __FREQSH: Fractional occurance of shallow convection__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.876__; averaged PPP is 0.232  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.FREQSH.png)
+  * __FREQSH: Fractional occurance of shallow convection__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.876__; averaged PPP is 0.232  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.FREQSH.png)
  
 ------ 
  
-  * __FREQZM: Fractional occurance of ZM convection__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.958__; averaged PPP is 0.309  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.FREQZM.png)
+  * __FREQZM: Fractional occurance of ZM convection__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.958__; averaged PPP is 0.309  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.FREQZM.png)
  
 ------ 
  
-  * __FSDSC: Clearsky downwelling solar flux at surface__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.968__; averaged PPP is __0.667__  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.FSDSC.png)
+  * __FSDSC: Clearsky downwelling solar flux at surface__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.968__; averaged PPP is __0.667__  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.FSDSC.png)
  
 ------ 
  
-  * __FSDS: Downwelling solar flux at surface__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.896__; averaged PPP is 0.234  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.FSDS.png)
+  * __FSDS: Downwelling solar flux at surface__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.896__; averaged PPP is 0.234  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.FSDS.png)
  
 ------ 
  
-  * __FSNSC: Clearsky net solar flux at surface__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.999__; averaged PPP is __0.633__  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.FSNSC.png)
+  * __FSNSC: Clearsky net solar flux at surface__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.999__; averaged PPP is __0.633__  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.FSNSC.png)
  
 ------ 
  
-  * __FSNS: Net solar flux at surface__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.944__; averaged PPP is 0.247  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.FSNS.png)
+  * __FSNS: Net solar flux at surface__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.944__; averaged PPP is 0.247  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.FSNS.png)
  
 ------ 
  
-  * __FSNTC: Clearsky net solar flux at top of model__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __01.000__; averaged PPP is __0.815__  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.FSNTC.png)
+  * __FSNTC: Clearsky net solar flux at top of model__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __01.000__; averaged PPP is __0.815__  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.FSNTC.png)
  
 ------ 
  
-  * __FSNT: Net solar flux at top of model__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.976__; averaged PPP is 0.253  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.FSNT.png)
+  * __FSNT: Net solar flux at top of model__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.976__; averaged PPP is 0.253  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.FSNT.png)
  
 ------ 
  
-  * __FSNTOAC: Clearsky net solar flux at top of atmosphere__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __01.000__; averaged PPP is __0.815__  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.FSNTOAC.png)
+  * __FSNTOAC: Clearsky net solar flux at top of atmosphere__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __01.000__; averaged PPP is __0.815__  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.FSNTOAC.png)
  
 ------ 
  
-  * __FSNTOA: Net solar flux at top of atmosphere__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.976__; averaged PPP is 0.253  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.FSNTOA.png)
+  * __FSNTOA: Net solar flux at top of atmosphere__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.976__; averaged PPP is 0.253  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.FSNTOA.png)
  
 ------ 
  
-  * __FSUTOA: Upwelling solar flux at top of atmosphere__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.976__; averaged PPP is 0.253  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.FSUTOA.png)
+  * __FSUTOA: Upwelling solar flux at top of atmosphere__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.976__; averaged PPP is 0.253  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.FSUTOA.png)
  
 ------ 
  
-  * __LHFLX: Surface latent heat flux__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.958__; averaged PPP is 0.359  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.LHFLX.png)
+  * __LHFLX: Surface latent heat flux__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.958__; averaged PPP is 0.359  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.LHFLX.png)
  
 ------ 
  
-  * __LWCF: Longwave cloud forcing__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.836__; averaged PPP is 0.248  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.LWCF.png)
+  * __LWCF: Longwave cloud forcing__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.836__; averaged PPP is 0.248  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.LWCF.png)
  
 ------ 
  
-  * __MSKtem: TEM mask__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.763__; averaged PPP is 0.176  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.MSKtem.png)
+  * __MSKtem: TEM mask__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.763__; averaged PPP is 0.176  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.MSKtem.png)
  
 ------ 
  
-  * __OMEGA500: Vertical velocity at 500 mbar pressure surface__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.917__; averaged PPP is 0.216  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.OMEGA500.png)
+  * __OMEGA500: Vertical velocity at 500 mbar pressure surface__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.917__; averaged PPP is 0.216  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.OMEGA500.png)
  
 ------ 
  
-  * __OMEGA850: Vertical velocity at 850 mbar pressure surface__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.938__; averaged PPP is 0.234  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.OMEGA850.png)
+  * __OMEGA850: Vertical velocity at 850 mbar pressure surface__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.938__; averaged PPP is 0.234  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.OMEGA850.png)
  
 ------ 
  
-  * __PBLH: PBL height__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.915__; averaged PPP is 0.296  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.PBLH.png)
+  * __PBLH: PBL height__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.915__; averaged PPP is 0.296  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.PBLH.png)
  
 ------ 
  
-  * __PCONVB: convection base pressure__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.946__; averaged PPP is 0.344  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.PCONVB.png)
+  * __PCONVB: convection base pressure__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.946__; averaged PPP is 0.344  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.PCONVB.png)
  
 ------ 
  
-  * __PCONVT: convection top pressure__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.955__; averaged PPP is 0.332  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.PCONVT.png)
+  * __PCONVT: convection top pressure__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.955__; averaged PPP is 0.332  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.PCONVT.png)
  
 ------ 
  
-  * __PRECCDZM: Convective precipitation rate from ZM deep__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.941__; averaged PPP is 0.292  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.PRECCDZM.png)
+  * __PRECCDZM: Convective precipitation rate from ZM deep__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.941__; averaged PPP is 0.292  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.PRECCDZM.png)
  
 ------ 
  
-  * __PRECC: Convective precipitation rate (liq + ice)__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.937__; averaged PPP is 0.298  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.PRECC.png)
+  * __PRECC: Convective precipitation rate (liq + ice)__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.937__; averaged PPP is 0.298  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.PRECC.png)
  
 ------ 
  
-  * __PRECL: Large-scale (stable) precipitation rate (liq + ice)__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.814__; averaged PPP is 0.173  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.PRECL.png)
+  * __PRECL: Large-scale (stable) precipitation rate (liq + ice)__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.814__; averaged PPP is 0.173  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.PRECL.png)
  
 ------ 
  
-  * __PRECSC: Convective snow rate (water equivalent)__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.669__; averaged PPP is 0.147  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.PRECSC.png)
+  * __PRECSC: Convective snow rate (water equivalent)__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.669__; averaged PPP is 0.147  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.PRECSC.png)
  
 ------ 
  
-  * __PRECSH: Shallow Convection precipitation rate__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.809__; averaged PPP is 0.196  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.PRECSH.png)
+  * __PRECSH: Shallow Convection precipitation rate__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.809__; averaged PPP is 0.196  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.PRECSH.png)
  
 ------ 
  
-  * __PRECSL: Large-scale (stable) snow rate (water equivalent)__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.601__; averaged PPP is 0.094  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.PRECSL.png)
+  * __PRECSL: Large-scale (stable) snow rate (water equivalent)__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.601__; averaged PPP is 0.094  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.PRECSL.png)
  
 ------ 
  
-  * __PRECT: Total (convective and large-scale) precipitation rate (liq + ice)__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.925__; averaged PPP is 0.240  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.PRECT.png)
+  * __PRECT: Total (convective and large-scale) precipitation rate (liq + ice)__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.925__; averaged PPP is 0.240  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.PRECT.png)
  
 ------ 
  
-  * __PSL: Sea level pressure__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.814__; averaged PPP is 0.360  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.PSL.png)
+  * __PSL: Sea level pressure__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.814__; averaged PPP is 0.360  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.PSL.png)
  
 ------ 
  
-  * __PS: Surface pressure__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.814__; averaged PPP is 0.363  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.PS.png)
+  * __PS: Surface pressure__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.814__; averaged PPP is 0.363  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.PS.png)
  
 ------ 
  
@@ -278,35 +278,35 @@ PPP of all variables in atm outputs
  
 ------ 
  
-  * __QFLX: Surface water flux__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.958__; averaged PPP is 0.360  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.QFLX.png)
+  * __QFLX: Surface water flux__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.958__; averaged PPP is 0.360  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.QFLX.png)
  
 ------ 
  
-  * __QREFHT: Reference height humidity__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.982__; averaged PPP is 0.411  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.QREFHT.png)
+  * __QREFHT: Reference height humidity__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.982__; averaged PPP is 0.411  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.QREFHT.png)
  
 ------ 
  
-  * __RHREFHT: Reference height relative humidity__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.905__; averaged PPP is 0.299  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.RHREFHT.png)
+  * __RHREFHT: Reference height relative humidity__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.905__; averaged PPP is 0.299  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.RHREFHT.png)
  
 ------ 
  
-  * __SHFLX: Surface sensible heat flux__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.946__; averaged PPP is 0.356  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.SHFLX.png)
+  * __SHFLX: Surface sensible heat flux__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.946__; averaged PPP is 0.356  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.SHFLX.png)
  
 ------ 
  
-  * __SNOWHICE: Water equivalent snow depth__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __01.000__; averaged PPP is __0.908__  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.SNOWHICE.png)
+  * __SNOWHICE: Water equivalent snow depth__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __01.000__; averaged PPP is __0.908__  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.SNOWHICE.png)
  
 ------ 
  
-  * __SRFRAD: Net radiative flux at surface__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.896__; averaged PPP is 0.277  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.SRFRAD.png)
+  * __SRFRAD: Net radiative flux at surface__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.896__; averaged PPP is 0.277  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.SRFRAD.png)
  
 ------ 
  
-  * __SWCF: Shortwave cloud forcing__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.923__; averaged PPP is 0.250  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.SWCF.png)
+  * __SWCF: Shortwave cloud forcing__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.923__; averaged PPP is 0.250  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.SWCF.png)
  
 ------ 
  
-  * __T1000: Temperature at 1000 mbar pressure surface__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.987__; averaged PPP is 0.532  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.T1000.png)
+  * __T1000: Temperature at 1000 mbar pressure surface__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.987__; averaged PPP is 0.532  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.T1000.png)
  
 ------ 
  
@@ -322,7 +322,7 @@ PPP of all variables in atm outputs
  
 ------ 
  
-  * __T200: Temperature at 200 mbar pressure surface__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.875__; averaged PPP is 0.520  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.T200.png)
+  * __T200: Temperature at 200 mbar pressure surface__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.875__; averaged PPP is 0.520  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.T200.png)
  
 ------ 
  
@@ -342,7 +342,7 @@ PPP of all variables in atm outputs
  
 ------ 
  
-  * __T500: Temperature at 500 mbar pressure surface__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.835__; averaged PPP is 0.372  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.T500.png)
+  * __T500: Temperature at 500 mbar pressure surface__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.835__; averaged PPP is 0.372  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.T500.png)
  
 ------ 
  
@@ -354,7 +354,7 @@ PPP of all variables in atm outputs
  
 ------ 
  
-  * __T700: Temperature at 700 mbar pressure surface__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.868__; averaged PPP is 0.333  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.T700.png)
+  * __T700: Temperature at 700 mbar pressure surface__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.868__; averaged PPP is 0.333  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.T700.png)
  
 ------ 
  
@@ -362,7 +362,7 @@ PPP of all variables in atm outputs
  
 ------ 
  
-  * __T850: Temperature at 850 mbar pressure surface__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.967__; averaged PPP is 0.362  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.T850.png)
+  * __T850: Temperature at 850 mbar pressure surface__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.967__; averaged PPP is 0.362  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.T850.png)
  
 ------ 
  
@@ -374,19 +374,19 @@ PPP of all variables in atm outputs
  
 ------ 
  
-  * __TAUX: Zonal surface stress__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.916__; averaged PPP is 0.270  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.TAUX.png)
+  * __TAUX: Zonal surface stress__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.916__; averaged PPP is 0.270  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.TAUX.png)
  
 ------ 
  
-  * __TAUY: Meridional surface stress__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.933__; averaged PPP is 0.257  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.TAUY.png)
+  * __TAUY: Meridional surface stress__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.933__; averaged PPP is 0.257  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.TAUY.png)
  
 ------ 
  
-  * __TGCLDIWP: Total grid-box cloud ice water path__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.868__; averaged PPP is 0.223  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.TGCLDIWP.png)
+  * __TGCLDIWP: Total grid-box cloud ice water path__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.868__; averaged PPP is 0.223  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.TGCLDIWP.png)
  
 ------ 
  
-  * __TGCLDLWP: Total grid-box cloud liquid water path__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.870__; averaged PPP is 0.203  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.TGCLDLWP.png)
+  * __TGCLDLWP: Total grid-box cloud liquid water path__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.870__; averaged PPP is 0.203  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.TGCLDLWP.png)
  
 ------ 
  
@@ -446,43 +446,43 @@ PPP of all variables in atm outputs
  
 ------ 
  
-  * __TMQ: Total (vertically integrated) precipitatable water__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.943__; averaged PPP is 0.307  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.TMQ.png)
+  * __TMQ: Total (vertically integrated) precipitatable water__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.943__; averaged PPP is 0.307  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.TMQ.png)
  
 ------ 
  
-  * __TREFHT: Reference height temperature__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.990__; averaged PPP is 0.585  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.TREFHT.png)
+  * __TREFHT: Reference height temperature__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.990__; averaged PPP is 0.585  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.TREFHT.png)
  
 ------ 
  
-  * __TREFMNAV: Average of TREFHT daily minimum__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.988__; averaged PPP is 0.577  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.TREFMNAV.png)
+  * __TREFMNAV: Average of TREFHT daily minimum__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.988__; averaged PPP is 0.577  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.TREFMNAV.png)
  
 ------ 
  
-  * __TREFMXAV: Average of TREFHT daily maximum__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.991__; averaged PPP is 0.571  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.TREFMXAV.png)
+  * __TREFMXAV: Average of TREFHT daily maximum__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.991__; averaged PPP is 0.571  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.TREFMXAV.png)
  
 ------ 
  
-  * __TROP_P: Tropopause Pressure__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.830__; averaged PPP is 0.419  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.TROP_P.png)
+  * __TROP_P: Tropopause Pressure__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.830__; averaged PPP is 0.419  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.TROP_P.png)
  
 ------ 
  
-  * __TROP_T: Tropopause Temperature__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.844__; averaged PPP is 0.459  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.TROP_T.png)
+  * __TROP_T: Tropopause Temperature__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.844__; averaged PPP is 0.459  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.TROP_T.png)
  
 ------ 
  
-  * __TROP_Z: Tropopause Height__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.831__; averaged PPP is 0.413  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.TROP_Z.png)
+  * __TROP_Z: Tropopause Height__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.831__; averaged PPP is 0.413  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.TROP_Z.png)
  
 ------ 
  
-  * __TSMN: Minimum surface temperature over output period__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __01.000__; averaged PPP is 0.373  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.TSMN.png)
+  * __TSMN: Minimum surface temperature over output period__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __01.000__; averaged PPP is 0.373  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.TSMN.png)
  
 ------ 
  
-  * __TSMX: Maximum surface temperature over output period__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __01.000__; averaged PPP is 0.318  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.TSMX.png)
+  * __TSMX: Maximum surface temperature over output period__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __01.000__; averaged PPP is 0.318  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.TSMX.png)
  
 ------ 
  
-  * __TS: Surface temperature (radiative)__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __01.000__; averaged PPP is 0.431  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.TS.png)
+  * __TS: Surface temperature (radiative)__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __01.000__; averaged PPP is 0.431  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.TS.png)
  
 ------ 
  
@@ -490,7 +490,7 @@ PPP of all variables in atm outputs
  
 ------ 
  
-  * __U10: 10m wind speed__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.907__; averaged PPP is 0.265  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.U10.png)
+  * __U10: 10m wind speed__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.907__; averaged PPP is 0.265  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.U10.png)
  
 ------ 
  
@@ -506,7 +506,7 @@ PPP of all variables in atm outputs
  
 ------ 
  
-  * __U200: Zonal wind at 200 mbar pressure surface__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.825__; averaged PPP is 0.348  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.U200.png)
+  * __U200: Zonal wind at 200 mbar pressure surface__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.825__; averaged PPP is 0.348  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.U200.png)
  
 ------ 
  
@@ -538,7 +538,7 @@ PPP of all variables in atm outputs
  
 ------ 
  
-  * __U850: Zonal wind at 850 mbar pressure surface__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.868__; averaged PPP is 0.277  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.U850.png)
+  * __U850: Zonal wind at 850 mbar pressure surface__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.868__; averaged PPP is 0.277  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.U850.png)
  
 ------ 
  
@@ -674,7 +674,7 @@ PPP of all variables in atm outputs
  
 ------ 
  
-  * __V200: Meridional wind at 200 mbar pressure surface__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.630__; averaged PPP is 0.240  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.V200.png)
+  * __V200: Meridional wind at 200 mbar pressure surface__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.630__; averaged PPP is 0.240  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.V200.png)
  
 ------ 
  
@@ -706,7 +706,7 @@ PPP of all variables in atm outputs
  
 ------ 
  
-  * __V850: Meridional wind at 850 mbar pressure surface__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.797__; averaged PPP is 0.234  ![] (../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.V850.png)
+  * __V850: Meridional wind at 850 mbar pressure surface__, All_G04.cam2.h0., (level: 0) -> maximum PPP is __0.797__; averaged PPP is 0.234  ![](../../figures/n30d_AMIP/PPP_atm/PPP_All_G04.cam2.h0.V850.png)
  
 ------ 
  
