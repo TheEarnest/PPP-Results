@@ -3,7 +3,7 @@ The Results of Applying Potential Predictability (PP)
 ==========
 >> For calculating Potential Predictability (PP) on nostore-oslo 
 >> Mainly evaluating if the system is well constrained. 
-
+[![DOI](https://zenodo.org/badge/52867001.svg)](https://zenodo.org/badge/latestdoi/52867001)]
 Author: Mao-Lin Shen (E-mail: maolin.shen@uib.no)
 
   * Figures of the PPP for different levels are not shown because there are too many levels and GitHub can only present the web-page if the page size is smaller than 1MB.
